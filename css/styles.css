@@ -1,0 +1,11 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #2E2F42;
+}
+h1 {
+    color: white;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+}
