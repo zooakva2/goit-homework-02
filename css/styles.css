@@ -7,13 +7,13 @@ body {
     letter-spacing: 0.32px;
 }
 .logo{
-    color: #2e2f42;
+    color: #4d5ae5;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
 }
 .logo-span {
     color: #4d5ae5;
@@ -22,11 +22,10 @@ body {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 21px;
-    letter-spacing: 0.54px;
-    word-wrap: break-word
+    letter-spacing: 0.03em;
 }
 .line{
-    color: #2E2F42;
+    color: #2e2f42;
     font-weight: 500;
     line-height: 24px;
 }
@@ -37,10 +36,20 @@ body {
     color: #404bbf;
 }
 .line-span:hover{
-    color: #404bbf
+    color: #404bbf;
+}
+.address-header {
+    font-style: normal
 }
 .line-three{
     line-height: 24px;
+    color: #434455;
+}
+.line-three:hover{
+    color: #404bbf
+}
+.line-three:focus{
+    color: #404bbf
 }
 .section-one {
     background-color: #2e2f42;
@@ -95,7 +104,7 @@ body {
     text-align: center;
 }
 .section-three {
-    background-color: #f4f4fd;
+    background-color: #FFFFFF
 }
 .section-three-title {
     background-color: #FFFFFF;
@@ -108,7 +117,7 @@ body {
 .section3-text {
     background-color: #FFFFFF;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
 }
 .footer {
     background-color: #2e2f42;
@@ -121,6 +130,15 @@ body {
     text-transform: uppercase;
     line-height: 1.17;
     letter-spacing: 0,02em;
+}
+.logo-span-second {
+    color: #f4f4fd;
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 21px;
+    letter-spacing: 0.03em;
 }
 .footer-text {
     color: #F4F4FD;
