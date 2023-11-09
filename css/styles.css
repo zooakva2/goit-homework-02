@@ -16,7 +16,7 @@ body {
     letter-spacing: 0.54px;
 }
 .logo-span {
-    color: #4D5AE5;
+    color: #4d5ae5;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -45,7 +45,7 @@ body {
 .section1 {
     background-color: #2e2f42;
 }
-.h-class1{
+.class1{
     color: white;
     font-size: 56px;
     font-weight: 700;
@@ -59,8 +59,11 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: inherit;
-    line-height: 1,5;
+    line-height:1.5;
     letter-spacing: 0.04em;
+}
+.order-button:hover {
+    background-color: #404BBF;
 }
 .order-button:focus {
     cursor: pointer;
@@ -74,33 +77,36 @@ body {
 .title {
     color: #2E2F42;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.40px;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .text {
     line-height: 24px;
 }
 .sections-main-title {
     color: #2E2F42;
-font-size: 36px;
-font-family: Roboto;
-font-weight: 700;
-text-transform: capitalize;
-line-height: 40px;
-letter-spacing: 0.72px;
+    font-size: 36px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
-.section3 {
+.section-three {
     background-color: #f4f4fd;
 }
-.section3-title {
-    background-color: white;
+.section-three-title {
+    background-color: #FFFFFF;
     color: #2E2F42;
+    font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.40px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .section3-text {
-    background-color: white;
+    background-color: #FFFFFF;
     font-weight: 400;
     line-height: 24px;
 }
@@ -113,8 +119,8 @@ letter-spacing: 0.72px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    line-height: 1.17;
+    letter-spacing: 0,02em;
 }
 .footer-text {
     color: #F4F4FD;
