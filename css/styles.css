@@ -9,11 +9,21 @@ body {
 .Logo{
     color: #2e2f42;
     font-size: 18px;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 21px;
     letter-spacing: 0.54px;
+}
+.Logo-span {
+    color: #4D5AE5;
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    word-wrap: break-word
 }
 .Line2{
     color: #2E2F42;
@@ -26,22 +36,31 @@ body {
 .section1 {
     background-color: #2e2f42;
 }
-.h1{
+.h-class1{
     color: white;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 1.12px;
+    text-align: center;
 }
-.Order-Button {
+.order-button {
     background-color: #4d5ae5;
     color: white;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.64px;
+    font-size: inherit;
+    line-height: 1,5;
+    letter-spacing: 0.04em;
 }
-.Order-Button:hover {
+.order-button:focus {
+    cursor: pointer;
     background-color: #404bbf;
+}
+.section2-main-title {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0,02em;
 }
 .title {
     color: #2E2F42;
@@ -51,6 +70,15 @@ body {
 }
 .text {
     line-height: 24px;
+}
+.sections-main-title {
+    color: #2E2F42;
+font-size: 36px;
+font-family: Roboto;
+font-weight: 700;
+text-transform: capitalize;
+line-height: 40px;
+letter-spacing: 0.72px;
 }
 .section3 {
     background-color: #f4f4fd;
@@ -73,7 +101,7 @@ body {
 .footer-logo {
     color: #F4F4FD;
     font-size: 18px;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 21px;
