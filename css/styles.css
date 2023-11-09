@@ -25,27 +25,27 @@ body {
     letter-spacing: 0.54px;
     word-wrap: break-word
 }
-.line2{
+.line{
     color: #2E2F42;
     font-weight: 500;
     line-height: 24px;
 }
-.line2-span {
+.line-span {
     color: #2e2f42;
 }
-.line2-span:focus {
+.line-span:focus {
     color: #404bbf;
 }
-.line2-span:hover{
+.line-span:hover{
     color: #404bbf
 }
-.line3{
+.line-three{
     line-height: 24px;
 }
-.section1 {
+.section-one {
     background-color: #2e2f42;
 }
-.class1{
+.class-one{
     color: white;
     font-size: 56px;
     font-weight: 700;
@@ -69,7 +69,7 @@ body {
     cursor: pointer;
     background-color: #404bbf;
 }
-.section2-main-title {
+.section-two-main-title {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0,02em;
