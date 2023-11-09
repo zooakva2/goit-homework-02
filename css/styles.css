@@ -6,16 +6,16 @@ body {
     font-size: 16px;
     letter-spacing: 0.32px;
 }
-.Logo{
+.logo{
     color: #2e2f42;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.54px;
 }
-.Logo-span {
+.logo-span {
     color: #4D5AE5;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
@@ -25,12 +25,21 @@ body {
     letter-spacing: 0.54px;
     word-wrap: break-word
 }
-.Line2{
+.line2{
     color: #2E2F42;
     font-weight: 500;
     line-height: 24px;
 }
-.Line3{
+.line2-span {
+    color: #2e2f42;
+}
+.line2-span:focus {
+    color: #404bbf;
+}
+.line2-span:hover{
+    color: #404bbf
+}
+.line3{
     line-height: 24px;
 }
 .section1 {
