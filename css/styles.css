@@ -16,7 +16,7 @@ body {
     letter-spacing: 0.03em;
 }
 .logo-span {
-    color: #4d5ae5;
+    color: #2e2f42;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -25,6 +25,7 @@ body {
     letter-spacing: 0.03em;
 }
 .line{
+    color: #2e2f42;
     font-weight: 500;
     line-height: 24px;
 }
@@ -131,13 +132,13 @@ body {
     background-color: #2e2f42;
 }
 .footer-logo {
-    color: #F4F4FD;
+    color: #4d5ae5;
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.17;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.03em;
 }
 .logo-span-second {
     color: #f4f4fd;
