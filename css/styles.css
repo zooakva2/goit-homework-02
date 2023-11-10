@@ -1,10 +1,10 @@
 body {
     font-family: "Roboto", sans-serif;
-    background-color: white;
+    background-color: #FFFFFF;
     color: #434455;
     font-weight: 400;
     font-size: 16px;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .logo{
     color: #4d5ae5;
@@ -17,17 +17,11 @@ body {
 }
 .logo-span {
     color: #2e2f42;
-    font-size: 18px;
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    line-height: 21px;
-    letter-spacing: 0.03em;
 }
 .line{
     color: #2e2f42;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
 }
 .line-span {
     color: #2e2f42;
@@ -48,7 +42,7 @@ body {
     font-style: normal
 }
 .line-three{
-    line-height: 24px;
+    line-height: 1.5;
     color: #434455;
 }
 .line-three:hover{
@@ -61,16 +55,16 @@ body {
     background-color: #2e2f42;
 }
 .class-one{
-    color: white;
+    color: #FFFFFF;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 1.12;
     text-align: center;
 }
 .order-button {
     background-color: #4d5ae5;
-    color: white;
+    color: #FFFFFF;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: inherit;
@@ -97,7 +91,7 @@ body {
     letter-spacing: 0.02em;
 }
 .text {
-    line-height: 24px;
+    line-height: 1.5;
 }
 .sections-main-title {
     color: #2E2F42;
@@ -142,14 +136,8 @@ body {
 }
 .logo-span-second {
     color: #f4f4fd;
-    font-size: 18px;
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    line-height: 21px;
-    letter-spacing: 0.03em;
 }
 .footer-text {
     color: #F4F4FD;
-    line-height: 24px;
+    line-height: 1.5;
 }
